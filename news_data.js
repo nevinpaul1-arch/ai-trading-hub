@@ -97,4 +97,9 @@ window.TRADING_NEWS = [
     "category": "general",
     "title": "FinRL-DeepSeek: LLM-Infused Risk-Sensitive Reinforcement Learning for Trading Agents",
     "summary": "This paper introduces FinRL-DeepSeek, which infuses LLM-derived signals into a risk-sensitive reinforcement learning framework to build trading agents that weigh risk, not just expected return, when making decisions.",
-    "why": "Illustrates a technical approach to one of AI trading's biggest weaknesses — ignoring risk — by combining LLM reasoning with risk-aware rei
+    "why": "Illustrates a technical approach to one of AI trading's biggest weaknesses — ignoring risk — by combining LLM reasoning with risk-aware reinforcement learning.",
+    "source": "arXiv",
+    "date": "February 2025",
+    "url": "https://arxiv.org/pdf/2502.07393"
+  }
+];
